@@ -1,20 +1,44 @@
-### Olá, eu sou a Cintia Lucena.
+### Olá, me chamo Cintia!
 
-- Estudante de Análise e Desenvolvimento de Sistemas
+## Sobre mim
 
- ##
- 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cih-gentil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cih-gentil&layout=compact&langs_count=7&theme=dracula"/>
- 
- ## 
- 
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&link=https://github.com/Cih-gentil)
- 
- ##
+- Apaixonada por tecnologia
+- 29 anos
+- São Paulo - SP
+- Estudante de Análise e Desenvolvimento de Sistemas - SenacSP
+
+
+
+<br>
+<div align="center">
+<a href="https://github.com/Cih-gentil">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cih-gentil&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cih-gentil&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+ ## Tecnologias 💻
+
+ <div style="display: inline_block"><br>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/RubyOnRails-FF0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   
-  <a href = "mailto:lcintia934@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cintiabarbosalucenagentil-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ 
 
+ ##
+
+ ## Contatos 📧
+ 
+<div>
+ <a href = "mailto:csnascimento07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/catnasc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+                  
+</div>
 
