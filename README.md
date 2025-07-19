@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - Apaixonada por tecnologia
-- 29 anos
+- 30 anos
 - São Paulo - SP
-- Estudante de Análise e Desenvolvimento de Sistemas - SenacSP
+- Formada e profissional em Análise e Desenvolvimento de Sistemas
 
 
 
@@ -37,8 +37,8 @@
  ## Contatos 📧
  
 <div>
- <a href = "mailto:csnascimento07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/catnasc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href = "mailto:lcintia934@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/cih-lucena/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
                   
 </div>
 
