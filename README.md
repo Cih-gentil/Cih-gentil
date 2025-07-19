@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-000080?style=for-the-badge&logo=ruby&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scrum-ADD8E6?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-000080?style=for-the-badge&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scrum-ADD8E6?style=for-the-badge&logo=scrum&logoColor=white" />
   
  </div>
  
